@@ -1,6 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## need to run the function and provide some matrix example to show the below program/function is is working as aspect
+
 ## generates cache-able matrix with get/set functions
 
 makeCacheMatrix <- function(x = matrix()) {
